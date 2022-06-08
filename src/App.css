@@ -1,0 +1,11 @@
+.custom-nav {box-shadow: 0px 0px 10px 0px rgba(0,0,0,.2);padding: 0;}
+.navbar-light .navbar-nav .nav-link.active {color: #fff;background-color: #3b4fa0;height: 60px;}
+
+a.navbar-brand.logo img {width: 52%;}
+.navbar-light .navbar-nav .nav-link {height: 60px;
+  display: flex;
+  align-items: center;flex-wrap: wrap;padding: 0 20px;}
+  .custom-container {max-width: 1200px;padding: 0;margin: auto;}
+  footer {background-color: #000;color: #fff;padding: 3px 0;}
+  section.form-entry {padding: 60px 0;}
+  section.show-data {min-height: 100vh;padding: 60px 0;}
